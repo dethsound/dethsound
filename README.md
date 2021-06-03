@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dethsound
 - 👀 I’m interested in anything that has to do with technology.
-- 🌱 I’m currently learning cloud computing, HTML, JavaScript, Batch, and Python.
+- 🌱 I’m currently learning cloud computing, HTML, JavaScript, Batch, C++, and Python.
 - 💞️ I’m looking to collaborate on a rickroll prank that installs like a regular program.
 
 <!---
